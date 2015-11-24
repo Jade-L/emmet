@@ -103,7 +103,7 @@ body {
 .panel {
   background-color: black;
 }
-
+/*force color text on panel*/
 .panel h1, .panel p {
   color: #fff;
 }
@@ -117,7 +117,7 @@ p {
   color: white;
   text-align: center;
 }
-
+/*color table background*/
 table {
   background-color: lightgrey;
 }
